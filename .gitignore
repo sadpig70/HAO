@@ -1,0 +1,10 @@
+_legacy/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+target/
+.env
+.DS_Store
+.vscode/
+.idea/
+*.log
