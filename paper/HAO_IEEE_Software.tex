@@ -101,9 +101,9 @@ A text-based hierarchical notation to control system complexity.
 \textbf{Example}:
 \begin{verbatim}
 TNQC_System // Root Node
-├── NISO_Engine // Optimization Module (Active)
-│   ├── TQQC_Algorithm // Core Logic (Done)
-│   └── Cost_Function // Math Model (Done)
++-- NISO_Engine // Optimization Module (Active)
+|   +-- TQQC_Algorithm // Core Logic (Done)
+|   +-- Cost_Function // Math Model (Done)
 \end{verbatim}
 By forcing the AI to output this tree \emph{before} writing code, we ensure the architecture remains coherent.
 
@@ -155,7 +155,7 @@ The role of the software engineer is evolving. We are no longer bricklayers; we 
 \bibliographystyle{IEEEtran}
 \bibliography{references}
 
-\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{../hao_logo.png}}]{Jung Wook Yang}
+\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{hao_logo.png}}]{Jung Wook Yang}
 is the architect of the HAO framework and the TNQC ecosystem. He specializes in Human-AI orchestration and quantum computing systems.
 \end{IEEEbiography}
 
