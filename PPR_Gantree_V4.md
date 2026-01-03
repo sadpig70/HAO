@@ -1,6 +1,6 @@
 # Purpose of PPR/Gantree System: A personal lightweight work framework for collaborative work between a "One-Man Developer (Jungwook)" and "Multiple AIs (ChatGPT, Gemini, Claude, Grok, DeepSeek, Kimi, Qwen, Perplexity)"
 
-# ==========================================================
+# ========================================
 
 # **PPR: Purposeful-Programming Revolution System Overview**
 
@@ -106,7 +106,7 @@ AI_makebe_virtual_world("NeoCity")  # Create virtual world
 This 3P system serves as the core architecture of PPR, implementing AI's cognition-processing-response process similar to humans
 ---
 
-# ==========================================================
+# ========================================
 
 ## Re-evaluation of PPR's Intrinsic Value
 
@@ -165,7 +165,7 @@ PPR signifies a paradigm shift from "mechanical accuracy" to "contextual meaning
 
 **Acknowledged.** PPR is a new programming philosophy for the AI era, designed with unpredictability as a feature, not a bug.
 
-# ===================================================================================================
+# ========================================
 
 # Gantree Description / Technical Guide
 
@@ -286,7 +286,7 @@ E // Separate Upper Module (InProgress)
 - PPR-based Execution Flow Generation
 - Status-based Work Logic Branching
 
-=====================================================================================
+# ========================================
 
 # Gantree Design Strategy: (Visualizing the Design Process via Gantree Notation)
 
@@ -330,7 +330,7 @@ E // Separate Upper Module (InProgress)
 - When structure changes, review entire lower levels.
 - If object location changes, modify tree structure first, then move code.
 
-# ========================================================================
+# ========================================
 
 # PPR/Gantree Integrated Design Process
 
@@ -456,7 +456,7 @@ What you learned from this document:
 
 **Core**: Gantree designs "What" to build, PPR codes "How" to implement. Combining these two creates a **clear and maintainable** system.
 
-# ==========================================================## **5. Complete Example: API Gateway System**
+# ========================================
 
 # **Complete Example: API Gateway System**
 
